@@ -40,10 +40,10 @@ The **Bhutan Rainfall Explorer** is a comprehensive data visualization and analy
 - **Professional Glassmorphism** - Modern UI design with backdrop blur effects
 
 ###  **Historical Data Analysis**
-- ** Monthly Trends** - Interactive time series visualization of rainfall patterns
-- ** Distribution Analysis** - Histogram with marginal box plots for statistical insights
-- ** Seasonal Patterns** - Monthly boxplots revealing seasonal variations
-- ** Regional Comparisons** - Comparative analysis across multiple regions with error bars
+- **Monthly Trends** - Interactive time series visualization of rainfall patterns
+- **Distribution Analysis** - Histogram with marginal box plots for statistical insights
+- **Seasonal Patterns** - Monthly boxplots revealing seasonal variations
+- **Regional Comparisons** - Comparative analysis across multiple regions with error bars
 
 ###  **Forecasting & Predictions**
 - **Time Series Forecasting** - Prophet-based predictions with confidence intervals
@@ -75,7 +75,7 @@ The **Bhutan Rainfall Explorer** is a comprehensive data visualization and analy
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/bhutan-rainfall-explorer.git
+   git clone https://github.com/sangampaudel530/bhutan-rainfall-explorer.git
    cd bhutan-rainfall-explorer
    ```
 
@@ -138,9 +138,10 @@ bhutan-rainfall-explorer/
 ├──  requirements.txt             
 └──  README.md                       
 
+```
 ---
 
-##  Quick Start
+## Quick Start
 
 ### Option 1: Explore with Sample Data
 1. Launch the application using the installation steps above
@@ -255,7 +256,7 @@ bhutan-rainfall-explorer/
 We welcome contributions from the community! Here's how you can help:
 
 ### **Bug Reports**
-- Use the [Issues](https://github.com/yourusername/bhutan-rainfall-explorer/issues) tab
+- Use the [Issues](https://github.com/sangampaudel530/bhutan-rainfall-explorer/issues) tab
 - Provide detailed reproduction steps
 - Include screenshots and error messages
 
