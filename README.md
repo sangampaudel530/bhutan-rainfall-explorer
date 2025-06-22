@@ -228,22 +228,22 @@ bhutan-rainfall-explorer/
 
 ##  Use Cases
 
-### 🌾 **Agricultural Planning**
+### **Agricultural Planning**
 - Identify optimal planting seasons based on rainfall patterns
 - Plan irrigation schedules using forecast predictions
 - Assess drought and flood risks for different regions
 
-###  **Policy Making**
+### **Policy Making**
 - Water resource management and allocation
 - Climate change adaptation strategies
 - Infrastructure planning for extreme weather events
 
-###  **Research & Academia**
+### **Research & Academia**
 - Climate pattern analysis and documentation
 - Comparative studies across Himalayan regions
 - Educational tool for meteorology and data science
 
-###  **Business Intelligence**
+### **Business Intelligence**
 - Tourism industry weather planning
 - Agricultural insurance risk assessment
 - Renewable energy planning (hydroelectric potential)
@@ -254,24 +254,24 @@ bhutan-rainfall-explorer/
 
 We welcome contributions from the community! Here's how you can help:
 
-###  **Bug Reports**
+### **Bug Reports**
 - Use the [Issues](https://github.com/yourusername/bhutan-rainfall-explorer/issues) tab
 - Provide detailed reproduction steps
 - Include screenshots and error messages
 
-###  **Feature Requests**
+### **Feature Requests**
 - Suggest new visualizations or analysis methods
 - Propose UI/UX improvements
 - Request additional data sources or regions
 
-###  **Code Contributions**
+### **Code Contributions**
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-###  **Documentation**
+### **Documentation**
 - Improve README and code comments
 - Add tutorials and usage examples
 - Translate documentation to other languages
@@ -287,10 +287,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Author
 
 **Sangam Paudel**
--  Portfolio: [Your Portfolio Website]
--  LinkedIn: [Your LinkedIn Profile]
--  Email: [your.email@example.com]
--  Twitter: [@YourTwitterHandle]
+-  Portfolio: [https://www.paudelsangam.com.np/]
+-  LinkedIn: [https://www.linkedin.com/in/sangampaudel530/]
+-  Email: [sangampaudel530@gmail.com]
+-  Twitter: [https://x.com/sangampaudel530]
 
 ---
 
@@ -306,10 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Projects
 
-- [Climate Data Analysis Toolkit](https://github.com/example/climate-toolkit)
-- [Himalayan Weather Patterns](https://github.com/example/himalayan-weather)
-- [Streamlit Weather Dashboard](https://github.com/example/weather-dashboard)
-
+- [Comprehensive-Analysis-and-Forecasting-of-Air-Quality-in-Kathmandu](https://github.com/sangampaudel530/Comprehensive-Analysis-and-Forecasting-of-Air-Quality-in-Kathmandu)
 ---
 
 ##  Project Roadmap
