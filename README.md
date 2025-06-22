@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Exploring Bhutan's climate patterns through the power of data science*
 
-**[ Star this project](https://github.com/yourusername/bhutan-rainfall-explorer) if you found it helpful!**
+**[ Star this project](https://github.com/sangampaudel530/bhutan-rainfall-explorer) if you found it helpful!**
 
 </div>
 
